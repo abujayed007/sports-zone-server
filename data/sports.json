@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Tennis",
+        "title": "One of the most popular game at this time",
+        "benifits": "increasing aerobic capacities. lowering resting heart rate and blood pressure. improving metabolic function. increasing bone density. lowering body fat.improving muscle tone strength and flexibility. increasing reaction times",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpm88ZsErK5Q2rNmTJ3nBv_e8yjO6BnfI6EA&usqp=CAU"
+        
+      },
+      {
+        "id": 2,
+        "name": "Cricket" ,
+        "title": "The gentleman game",
+        "benifits": "Although there is some standing around, to play cricket you need to be fit and strong, and have good hand-eye coordination and ball-handling skills. Cricket involves sprinting between wickets and running to stop balls, as well as bowling and throwing.",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2021/11/2021-11-19T080832Z_1052924664_RC2KXQ9G0PFJ_RTRMADP_3_CRICKET-SAFRICA-DEVILLIERS.jpg?resize=1800%2C1582"
+      },
+      {
+        "id": 3,
+        "name": "Football" ,
+        "title": "No 1 popular game in the world",
+        "image": "https://media.istockphoto.com/photos/young-football-players-kicking-ball-on-soccer-field-soccer-horizontal-picture-id1148035886?k=20&m=1148035886&s=612x612&w=0&h=8rq-zSIKtcx_TtzNrNa-6qdzHyb2qtIDrTo64fOxL50="
+      },
+      {
+        "id": 4,
+        "name": "Boxing" ,
+        "title": "Prove your mucles straingth",
+        "benifits": "Boxing can help improve your heart health, body composition, and strength, as well as lower your blood pressure and aid weight loss. Most of all, boxing is a fun way to get some exercise and release stress in a safe and healthy way.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4AtECOuyS8s9dkwvBbwQfSI-8WhXQJcnxg&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "name": "Swiming",
+        "title": "Swim everyday fit alltime",
+        "benifits": "As well as being fun, swimming is a great way to keep fit and make friends.Swimming is a healthy activity that you can continue for a lifetime. Swimming is a low-impact activity that has many physical and mental health benefits.Make sure you know how to swim and do so in a safe environment.",
+        "image": "https://swimkidsutah.com/wp-content/uploads/2019/08/img-22.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Basketball" ,
+        "title": "Basket the ball",
+        "benifits": "burn calories (an hour of basketball can burn 630–750 calories) build endurance.improve balance and coordination.develop concentration and self-discipline. build up muscle.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR105j_EVVpBCXNYnPk94Koj9EoShZhNO8ualI3saPz2m4zVQtr1HQd19OrtwGRWf7T4Dk&usqp=CAU"
+      }
+]
