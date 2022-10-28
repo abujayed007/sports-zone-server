@@ -9,7 +9,7 @@ const sports = require('./data/sports.json')
 
 
 
-app.get('/', (req, res) =>{
+app.get ('/', (req, res) =>{
     res.send('Node is running')
 })
 
